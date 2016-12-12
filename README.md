@@ -1,0 +1,2 @@
+# NXconfig
+auto config nxlog
